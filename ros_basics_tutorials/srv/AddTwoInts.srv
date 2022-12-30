@@ -1,0 +1,5 @@
+#service definition
+int64 a
+int64 b
+--- #separation btw service and response
+int64 sum
